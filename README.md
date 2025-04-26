@@ -1,7 +1,7 @@
-# ASP.NET 6.0 ile MVC Portfolyo Projesi
+# ASP.NET CORE 6.0 ile Portfolyo Projesi
 
-Bu proje, **Acunmedya Akademi AkdemIQ Staj**'da aldığım "C# ile Programlama" eğitimi kapsamında verilen case olan bir ASP.NET MVC Portfolio sitesidir.  
-Amacım, öğrendiğim **ASP.NET MVC Framework**, **Entity Framework** ve **MSSQL** gibi teknolojileri kullanarak dinamik veri yönetimi sağlayan kullanıcı dostu bir portföy sistemi oluşturmaktı.
+Bu proje, **Acunmedya Akademi AkdemIQ Staj**'da aldığım "C# ile Programlama" eğitimi kapsamında verilen case olan bir ASP.NET CORE Portfolio sitesidir.  
+Amacım, öğrendiğim **ASP.NET CORE Framework**, **Entity Framework** ve **MSSQL** gibi teknolojileri kullanarak dinamik veri yönetimi sağlayan kullanıcı dostu bir portföy sistemi oluşturmaktı.
 
 ## 🚀 Proje Özellikleri
 
